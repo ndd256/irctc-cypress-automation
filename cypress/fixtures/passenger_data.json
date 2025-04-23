@@ -1,25 +1,25 @@
 {
-  "TRAIN_NO": "13185",
+  "TRAIN_NO": "22955",
   "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
+  "TRAVEL_DATE": "24/04/2025",
+  "SOURCE_STATION": "BDTS",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
+  "DESTINATION_STATION": "SIOB",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Nayan",
+      "AGE": 18,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     },
     {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
-      "GENDER": "Female",
+      "NAME": "Vivek",
+      "AGE": 16,
+      "GENDER": "male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     }
